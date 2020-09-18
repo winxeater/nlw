@@ -1,7 +1,7 @@
 # nlw-react
 Projeto Proffy desenvolvido junto com a Rocketseat em seu evento NLW
 
-#O projeto foi feito com ReactJS, uma vez q consumindo sua API no repositório nlw-nodejs.
+O projeto foi feito com ReactJS, uma vez q consumindo sua API no repositório nlw-nodejs.
 
 No projeto, foi utilizado as seguintes libs:
 
